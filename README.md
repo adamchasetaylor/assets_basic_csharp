@@ -4,6 +4,8 @@ This is a much simpler example than https://github.com/adamchasetaylor/assets_in
 
 Unlike assets in 10 seconds, it does not perform any cleanup.
 
+This script relies on [RestSharp](http://restsharp.org/) and [Json.NET](https://www.newtonsoft.com/json)
+
 This script reads TWILO_ACCOUNT_SID and TWILIO_AUTH_TOKEN from your environment.
 
 Then the script does the following:
