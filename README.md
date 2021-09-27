@@ -13,7 +13,7 @@ Then the script does the following:
 1. Creates a Service using Helper Library
 2. Creates an Environment using Helper Library
 3. Creates an Asset using Helper Library
-4. Creates an Asset Version with Public Visibility using Custom TwilioHttpClient
+4. Creates an Asset Version with Public Visibility using RestSharp
 5. Creates a Build Using Helper Library
 6. Waits 10 seconds for Build to Finish
 7. Creates a Deployment Using Helper Library
